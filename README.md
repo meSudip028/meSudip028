@@ -28,11 +28,9 @@
 
 ### 📊 GitHub Stats
 
-<img src="https://github-readme-stats.vercel.app/api?username=meSudip028&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
+### 📊 GitHub Stats
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=meSudip028&layout=compact&theme=tokyonight&hide_border=true" />
-
----
+[![GitHub Streak](https://streak-stats.demolab.com?user=meSudip028&theme=tokyonight&hide_border=true)](https://git.io/streak-stats)
 
 ⭐️ *From [meSudip028](https://github.com/meSudip028)*
 
