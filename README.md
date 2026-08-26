@@ -48,6 +48,8 @@ Developer Tools
 
 ---
 
+[![GitHub Streak](https://streak-stats.demolab.com?user=meSudip028&hide_border=true&theme=default)](https://git.io/streak-stats)
+
 ## Tech Stack
 
 ### Languages
