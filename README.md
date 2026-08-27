@@ -2,26 +2,26 @@
 
 ### BSc CSIT Student · Developer in Progress · Nepal 🇳🇵
 
-I'm a **4th-semester BSc CSIT student** from Nepal, building my foundation in programming and software development through coursework, experiments, and practical projects.
+I'm a 4th-semester BSc CSIT student from Nepal, building my foundation in programming and software development through coursework, experiments, and practical projects.
 
-I mainly work with **C/C++** and am expanding into **web development, JavaScript, Git/GitHub, and AI-related projects**.
+I enjoy understanding how things work by building them myself — from C and C++ programs to web projects and AI-related experiments.
 
 ---
 
-## About Me
+## 🧠 About Me
 
 * 🎓 BSc CSIT — 4th Semester
 * 📍 Nepal
-* 💻 Currently focused on **C and C++**
-* 🌐 Learning **HTML, CSS and JavaScript**
-* 🧠 Studying **Data Structures, Operating Systems, Computer Networks and AI**
-* 🔧 Daily tools: **VS Code, Git, GitHub and macOS**
-* 🛠️ Building projects to turn academic concepts into working software
-* 🚀 Goal: become a strong software developer through consistent learning and building
+* 💻 Currently focused on C and C++
+* 🌐 Learning HTML, CSS and JavaScript
+* 🤖 Exploring Artificial Intelligence and problem-solving
+* 📚 Studying Data Structures, Operating Systems and Computer Networks
+* 🛠️ Using VS Code, Git, GitHub and macOS
+* 🚀 Building projects to turn academic concepts into practical software
 
 ---
 
-## What I'm Learning
+## 📚 What I'm Learning
 
 ```text
 Programming
@@ -48,136 +48,73 @@ Developer Tools
 
 ---
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=meSudip028&hide_border=true&theme=default)](https://git.io/streak-stats)
-
-## Tech Stack
+## 🛠️ Tech Stack
 
 ### Languages
 
-<p>
-  <img src="https://img.shields.io/badge/C-00599C?style=flat-square&logo=c&logoColor=white" alt="C"/>
-  <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=flat-square&logo=cplusplus&logoColor=white" alt="C++"/>
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" alt="JavaScript"/>
-</p>
+`C` · `C++` · `JavaScript`
 
 ### Web
 
-<p>
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" alt="HTML5"/>
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white" alt="CSS3"/>
-</p>
+`HTML` · `CSS` · `JavaScript`
 
 ### Tools
 
-<p>
-  <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" alt="Git"/>
-  <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub"/>
-  <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white" alt="VS Code"/>
-  <img src="https://img.shields.io/badge/macOS-000000?style=flat-square&logo=apple&logoColor=white" alt="macOS"/>
-</p>
+`Git` · `GitHub` · `VS Code`
+
+### Areas
+
+`Artificial Intelligence` · `Data Structures` · `Operating Systems` · `Computer Networks`
 
 ---
 
-## Featured Projects
+## 🚀 Featured Projects
 
-### 🖥️ [Operating System Labsheet](https://github.com/meSudip028/Operating-System-LABSHEET)
+### 🤖 AI Lab Sheet
 
-A collection of **Operating System laboratory programs and reports** developed as part of my BSc CSIT coursework.
+A collection of Artificial Intelligence algorithms implemented in C as part of my academic lab work.
 
-**Focus:** Process Scheduling · Memory Management · Page Replacement · Disk Scheduling · Synchronization · Deadlocks
+**Topics:** BFS · DFS · DLS · IDS · GBFS · Hill Climbing · A* · Minimax · Alpha-Beta Pruning
 
-**Technology:** `C`
+🔗 [View Repository](https://github.com/meSudip028/AI-Lab-Sheet)
 
 ---
 
-### 🚦 [TrafficAgent](https://github.com/meSudip028/TrafficAgent)
+### 🖥️ Operating System Labsheet
 
-A web-based traffic simulation project exploring traffic-agent behavior and interaction.
+A collection of Operating System laboratory programs and related coursework implemented in C.
+
+**Topics:** Process Scheduling · Memory Management · Page Replacement · Disk Scheduling · Synchronization · Deadlocks
+
+---
+
+### 🌐 Web Projects
+
+Projects built while learning front-end development and experimenting with interactive web applications.
 
 **Technologies:** `HTML` · `CSS` · `JavaScript`
 
-**Live Demo:** [Open TrafficAgent](https://mesudip028.github.io/TrafficAgent/)
+---
+
+## 🎯 Current Goal
+
+Build a strong foundation in computer science and become a capable software developer by consistently learning, building, and improving.
 
 ---
 
-### 📄 [AI Resume Analyser](https://github.com/meSudip028/AI-Resume-Analyser)
+## 📊 GitHub
 
-An AI-based resume analysis project that provides automated feedback on resume content, skills, structure, and possible improvements.
-
-**Technologies:** `HTML` · `CSS` · `JavaScript` · `NLP`
-
-**Live Demo:** [Open Resume Analyser](https://mesudip028.github.io/AI-Resume-Analyser/)
+I use GitHub to document my learning, organize academic work, and share projects as I continue developing my skills.
 
 ---
 
-### 🎨 [Mini Paint Application](https://github.com/meSudip028/Mini-Paint-Application)
+## 📫 Connect With Me
 
-A simple interactive paint application built as a Computer Graphics project using C++ and OpenGL.
-
-**Algorithms:** `DDA` · `Midpoint Circle` · `Flood Fill`
-
-**Technologies:** `C++` · `OpenGL` · `GLUT/freeglut`
+* 💻 GitHub: [@meSudip028](https://github.com/meSudip028)
+* 💼 LinkedIn: *Add your LinkedIn profile here*
 
 ---
 
-### 📐 [2D Graphics Simulator](https://github.com/meSudip028/2D-Graphics-Simulator)
+> Build. Learn. Improve. Repeat.
 
-A Computer Graphics project for drawing shapes and experimenting with fundamental 2D transformation algorithms.
-
-**Algorithms:** `DDA` · `Midpoint Circle` · `Translation` · `Rotation` · `Scaling`
-
-**Technologies:** `C++` · `OpenGL` · `GLUT/freeglut`
-
----
-
-### 🧮 [C++ Calculator](https://github.com/meSudip028/CPP-CALCULATOR)
-
-A menu-driven calculator application supporting arithmetic, logarithmic, and trigonometric operations with error handling.
-
-**Technologies:** `C++`
-
----
-
-### 🌐 [My Portfolio](https://github.com/meSudip028/my-portfolio)
-
-My personal portfolio website showcasing projects, skills, and contact information.
-
-**Technologies:** `HTML` · `CSS` · `JavaScript`
-
-**Live Demo:** [Visit Portfolio](https://mesudip028.github.io/my-portfolio/)
-
----
-
-## GitHub
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=meSudip028&show_icons=true&hide_border=true&rank_icon=github" alt="Sudip's GitHub Stats"/>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=meSudip028&layout=compact&hide_border=true" alt="Sudip's Top Languages"/>
-</p>
-
----
-
-## Connect With Me
-
-<p>
-  <a href="https://github.com/meSudip028">
-    <img src="https://img.shields.io/badge/GitHub-meSudip028-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub"/>
-  </a>
-  <a href="YOUR_LINKEDIN">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-  </a>
-  <a href="mailto:YOUR_EMAIL">
-    <img src="https://img.shields.io/badge/Email-Contact-EA4335?style=flat-square&logo=gmail&logoColor=white" alt="Email"/>
-  </a>
-</p>
-
----
-
-> **Build. Learn. Improve. Repeat.**
-
-<p align="center">
-  <sub>Still learning. Still building. One project at a time.</sub>
-</p>
+*Still learning. Still building. One project at a time.*
