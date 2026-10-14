@@ -2,6 +2,16 @@
 
 ### BSc CSIT Student · Developer in Progress · Nepal 🇳🇵
 
+<div align="center">
+  <img
+    src="./assets/particle-portrait.png"
+    width="450"
+    alt="Sudip's particle portrait"
+  />
+</div>
+
+<br/>
+
 I'm a 4th-semester BSc CSIT student from Nepal, building my foundation in programming and software development through coursework, experiments, and practical projects.
 
 I enjoy understanding how things work by building them myself — from C and C++ programs to web projects and AI-related experiments.
