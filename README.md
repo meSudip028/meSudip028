@@ -189,7 +189,7 @@ I use GitHub to document my learning, organize academic work, and share projects
 ## 📫 Connect With Me
 
 * 💻 GitHub: [@meSudip028](https://github.com/meSudip028)
-* 💼 LinkedIn: *Add your LinkedIn profile here*
+* 💼 LinkedIn:  (https://www.linkedin.com/in/sudip-bhattarai-938b802b0?utm_source=share_via&utm_content=profile&utm_medium=member_android)
 
 ---
 
