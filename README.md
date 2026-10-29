@@ -90,7 +90,7 @@ The project includes saved analyses for the 2022 Bahrain and Saudi Arabian Grand
 A backend project focused on URL shortening and API development.
 
 - 💻 **Source Code:** [View Repository](https://github.com/meSudip028/Shortlink)
-- 🌐 **Deployment:** [Open API](https://shortlink-zmt8.onrender.com)
+- 🌐 **Deployment:** [Open API](https://shortlink-zmt7.onrender.com)
 - 🛠️ **Technologies:** Python · FastAPI · APIs · Testing
 
 ### 🖥️ Operating System Labsheet
