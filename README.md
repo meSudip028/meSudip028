@@ -3,60 +3,52 @@
 ### BSc CSIT Student · Developer in Progress · Nepal 🇳🇵
 
 <div align="center">
+
   <img
     src="./assets/particle-portrait.png"
     width="450"
     alt="Sudip's particle portrait"
   />
+
+  <br/><br/>
+
+  <a href="https://github.com/meSudip028">
+    <img
+      src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=24&duration=2600&pause=900&color=58A6FF&center=true&vCenter=true&width=850&lines=Sudip+Bhattarai+%7C+CSIT+Student;Learning+Python+%26+Software+Development;Building+projects+one+step+at+a+time"
+      alt="Typing animation"
+    />
+  </a>
+
+  <br/><br/>
+
+  <img
+    src="https://komarev.com/ghpvc/?username=meSudip028&style=flat-square&color=58A6FF&label=PROFILE+VIEWS"
+    alt="Profile views"
+  />
+
 </div>
 
-<br/>
+---
 
-I'm a 4th-semester BSc CSIT student from Nepal, building my foundation in programming and software development through coursework, experiments, and practical projects.
+I'm a BSc CSIT student from Nepal 🇳🇵, building my foundation in programming and software development through coursework, experiments, and practical projects.
 
-I enjoy understanding how things work by building them myself — from C and C++ programs to web projects and AI-related experiments.
+I enjoy understanding how things work by building them myself — from C and C++ programs to backend APIs, interactive dashboards, and AI-related experiments.
+
+My goal is to become a skilled software developer by turning what I learn into useful, working software.
 
 ---
 
 ## 🧠 About Me
 
-* 🎓 BSc CSIT — 4th Semester
-* 📍 Nepal
-* 💻 Currently focused on C and C++
-* 🌐 Learning HTML, CSS and JavaScript
-* 🤖 Exploring Artificial Intelligence and problem-solving
-* 📚 Studying Data Structures, Operating Systems and Computer Networks
-* 🛠️ Using VS Code, Git, GitHub and macOS
-* 🚀 Building projects to turn academic concepts into practical software
-
-
-<div align="center">
-
-<a href="https://github.com/meSudip028">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=24&duration=2600&pause=900&color=58A6FF&center=true&vCenter=true&width=850&lines=Sudip+Bhattarai+%7C+CSIT+Student;Learning+Python+%26+Software+Development;Building+projects+one+step+at+a+time" alt="Typing SVG" />
-</a>
-
-<br/><br/>
-
-<img src="https://skillicons.dev/icons?i=c,cpp,python,html,css,js,git,github,vscode&perline=9" alt="Technology stack" />
-
-<br/><br/>
-
-<img src="https://komarev.com/ghpvc/?username=meSudip028&style=flat-square&color=58A6FF&label=PROFILE+VIEWS" alt="Profile views" />
-
-</div>
-
----
-
-## 👨‍💻 About Me
-
-Hi, I'm **Sudip**, a BSc CSIT student from Nepal 🇳🇵.
-
-- 🎓 Studying Computer Science and Information Technology.
-- 💻 Building projects and improving my programming skills.
-- 🌱 Currently learning Python and practical software development.
-- 🧠 Interested in AI, backend development, and problem-solving.
-- 🎯 My goal is to become a skilled software developer by building real projects.
+- 🎓 Studying Computer Science and Information Technology (BSc CSIT).
+- 📍 Based in Nepal.
+- 💻 Building projects to improve my programming skills.
+- 🐍 Learning Python and practical software development.
+- 🌐 Exploring HTML, CSS, and JavaScript.
+- 🤖 Interested in Artificial Intelligence and problem-solving.
+- 🧩 Studying Data Structures, Operating Systems, and Computer Networks.
+- 🛠️ Using VS Code, Git, GitHub, and macOS.
+- 🚀 Learning by building, testing, debugging, and improving real projects.
 
 ---
 
@@ -64,38 +56,64 @@ Hi, I'm **Sudip**, a BSc CSIT student from Nepal 🇳🇵.
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=c,cpp,python,html,css,js,git,github,vscode&perline=5" alt="My technologies" />
+  <img
+    src="https://skillicons.dev/icons?i=c,cpp,python,html,css,js,git,github,vscode&perline=5"
+    alt="C, C++, Python, HTML, CSS, JavaScript, Git, GitHub, and VS Code"
+  />
 
 </div>
+
+**Languages:** C · C++ · Python · JavaScript
+
+**Web Development:** HTML · CSS · JavaScript
+
+**Tools:** Git · GitHub · VS Code · macOS
+
+**Interests:** Backend Development · Artificial Intelligence · Data Structures and Algorithms
 
 ---
 
 ## 🚀 Featured Projects
 
-| Project | Description |
-|---------|-------------|
-| [OS Laboratory Works](https://github.com/meSudip028/Operating-System-LABSHEET) | Operating system programs and lab exercises. |
-| [AI Resume Analyser](https://github.com/meSudip028/AI-Resume-Analyser) | An AI-powered resume analysis project currently being improved. |
+### 🏎️ F1 Telemetry Explorer
 
----
+An interactive Formula 1 telemetry dashboard built to explore qualifying-session data through circuit speed maps, car telemetry graphs, and driver comparisons.
 
-## 📊 GitHub Statistics
+- 🌐 **Live Demo:** [Launch F1 Telemetry Explorer](https://f1-telemetry-explorer-a43zvpfwmhrydchs28qjxn.streamlit.app/)
+- 💻 **Source Code:** [View Repository](https://github.com/meSudip028/F1-Telemetry-Explorer)
+- 🛠️ **Technologies:** Python · FastF1 · Pandas · Matplotlib · Streamlit
 
-<div align="center">
+The project includes saved analyses for the 2022 Bahrain and Saudi Arabian Grands Prix.
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=meSudip028&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub statistics" />
+### 🔗 Shortlink API
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=meSudip028&layout=compact&theme=tokyonight&hide_border=true" alt="Most used languages" />
+A backend project focused on URL shortening and API development.
 
-</div>
+- 💻 **Source Code:** [View Repository](https://github.com/meSudip028/Shortlink)
+- 🌐 **Deployment:** [Open API](https://shortlink-zmt8.onrender.com)
+- 🛠️ **Technologies:** Python · FastAPI · APIs · Testing
 
----
+### 🖥️ Operating System Labsheet
 
-<div align="center">
+A collection of Operating System laboratory programs and practical coursework implemented as part of my CSIT studies.
 
-*Learning, building, and improving every day.*
+**Topics:** CPU Scheduling · Memory Management · Disk Scheduling · Process Management · Synchronization · Deadlocks
 
-</div>
+- 💻 **Source Code:** [View Repository](https://github.com/meSudip028/Operating-System-LABSHEET)
+
+### 🤖 AI Lab Sheet
+
+A collection of Artificial Intelligence algorithms implemented in C for academic lab work.
+
+**Topics:** BFS · DFS · DLS · IDS · Greedy Best-First Search · Hill Climbing · A* · Minimax · Alpha-Beta Pruning
+
+- 💻 **Source Code:** [View Repository](https://github.com/meSudip028/AI-Lab-Sheet)
+
+### 📄 AI Resume Analyser
+
+An AI-related project that I'm improving to provide useful resume analysis and feedback.
+
+- 💻 **Source Code:** [View Repository](https://github.com/meSudip028/AI-Resume-Analyser)
 
 ---
 
@@ -105,12 +123,19 @@ Hi, I'm **Sudip**, a BSc CSIT student from Nepal 🇳🇵.
 Programming
 ├── C
 ├── C++
+├── Python
 └── JavaScript
 
 Web Development
 ├── HTML
 ├── CSS
 └── JavaScript
+
+Software Development
+├── Backend Development
+├── REST APIs
+├── Databases
+└── Testing
 
 Computer Science
 ├── Data Structures & Algorithms
@@ -126,73 +151,45 @@ Developer Tools
 
 ---
 
-## 🛠️ Tech Stack
+## 📊 GitHub Statistics
 
-### Languages
+<div align="center">
 
-`C` · `C++` · `JavaScript`
+  <img
+    width="49%"
+    src="https://github-readme-stats.vercel.app/api?username=meSudip028&show_icons=true&theme=tokyonight&hide_border=true"
+    alt="GitHub statistics"
+  />
 
-### Web
+  <img
+    width="49%"
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=meSudip028&layout=compact&theme=tokyonight&hide_border=true"
+    alt="Most-used programming languages"
+  />
 
-`HTML` · `CSS` · `JavaScript`
-
-### Tools
-
-`Git` · `GitHub` · `VS Code`
-
-### Areas
-
-`Artificial Intelligence` · `Data Structures` · `Operating Systems` · `Computer Networks`
-
----
-
-## 🚀 Featured Projects
-
-### 🤖 AI Lab Sheet
-
-A collection of Artificial Intelligence algorithms implemented in C as part of my academic lab work.
-
-**Topics:** BFS · DFS · DLS · IDS · GBFS · Hill Climbing · A* · Minimax · Alpha-Beta Pruning
-
-🔗 [View Repository](https://github.com/meSudip028/AI-Lab-Sheet)
-
----
-
-### 🖥️ Operating System Labsheet
-
-A collection of Operating System laboratory programs and related coursework implemented in C.
-
-**Topics:** Process Scheduling · Memory Management · Page Replacement · Disk Scheduling · Synchronization · Deadlocks
-
----
-
-### 🌐 Web Projects
-
-Projects built while learning front-end development and experimenting with interactive web applications.
-
-**Technologies:** `HTML` · `CSS` · `JavaScript`
+</div>
 
 ---
 
 ## 🎯 Current Goal
 
-Build a strong foundation in computer science and become a capable software developer by consistently learning, building, and improving.
+Build a strong foundation in computer science and practical software engineering by consistently learning new concepts, building real projects, and improving the quality of my code.
 
----
-
-## 📊 GitHub
-
-I use GitHub to document my learning, organize academic work, and share projects as I continue developing my skills.
+I'm particularly interested in developing backend applications, understanding APIs and databases, and creating projects that solve real problems.
 
 ---
 
 ## 📫 Connect With Me
 
-* 💻 GitHub: [@meSudip028](https://github.com/meSudip028)
-* 💼 LinkedIn:  (https://www.linkedin.com/in/sudip-bhattarai-938b802b0?utm_source=share_via&utm_content=profile&utm_medium=member_android)
+- 💻 **GitHub:** [@meSudip028](https://github.com/meSudip028)
+- 💼 **LinkedIn:** [Connect with me](https://www.linkedin.com/in/sudip-bhattarai-938b802b0/)
 
 ---
 
-> Build. Learn. Improve. Repeat.
+<div align="center">
+
+### Build. Learn. Improve. Repeat. 🏁
 
 *Still learning. Still building. One project at a time.*
+
+</div>
