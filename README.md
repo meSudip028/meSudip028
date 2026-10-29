@@ -22,7 +22,7 @@
   <br/><br/>
 
   <img
-    src="https://komarev.com/ghpvc/?username=meSudip028&style=flat-square&color=58A6FF&label=PROFILE+VIEWS"
+    src="https://hits.sh/github.com/meSudip028.svg?style=flat-square&label=PROFILE+VIEWS&color=58A6FF"
     alt="Profile views"
   />
 
@@ -147,49 +147,13 @@ Developer Tools
 ├── Git
 ├── GitHub
 └── VS Code
-```
 
----
-
-## 📊 GitHub Statistics
-
-<div align="center">
-
-  <img
-    width="49%"
-    src="https://github-readme-stats.vercel.app/api?username=meSudip028&show_icons=true&theme=tokyonight&hide_border=true"
-    alt="GitHub statistics"
-  />
-
-  <img
-    width="49%"
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=meSudip028&layout=compact&theme=tokyonight&hide_border=true"
-    alt="Most-used programming languages"
-  />
-
-</div>
-
----
-
-## 🎯 Current Goal
-
+🎯 Current Goal
 Build a strong foundation in computer science and practical software engineering by consistently learning new concepts, building real projects, and improving the quality of my code.
 
 I'm particularly interested in developing backend applications, understanding APIs and databases, and creating projects that solve real problems.
 
----
+📫 Connect With Me
+- 💻 GitHub: @meSudip028
+- 💼 LinkedIn: Connect with me
 
-## 📫 Connect With Me
-
-- 💻 **GitHub:** [@meSudip028](https://github.com/meSudip028)
-- 💼 **LinkedIn:** [Connect with me](https://www.linkedin.com/in/sudip-bhattarai-938b802b0/)
-
----
-
-<div align="center">
-
-### Build. Learn. Improve. Repeat. 🏁
-
-*Still learning. Still building. One project at a time.*
-
-</div>
